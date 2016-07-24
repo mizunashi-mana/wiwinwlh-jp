@@ -4,7 +4,7 @@
   "plugins": ["forkmegithub"],
   "pluginsConfig": {
     "forkmegithub": {
-      "url": "https://github.com/Kinokkory/wiwinwlh-jp"
+      "url": "https://github.com/mizunashi-mana/wiwinwlh-jp"
     }
   }
 }
